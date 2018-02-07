@@ -2,6 +2,8 @@
 
 ## Contact Information
 ### Dr. H. Conrad Cunningham
+* Class Professor
+* cunningham@cs.olemiss.edu
 
 ### Tam Nguyen
 * Project Leader
